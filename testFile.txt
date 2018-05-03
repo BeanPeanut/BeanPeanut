@@ -1,0 +1,4 @@
+ID,data1,data2,data3,data4,data5,data6,data7,eol
+11242,test1,test2,test3,,,,,0
+12345,info1,,info3,,,,,0
+23415,,,,,,,,0
